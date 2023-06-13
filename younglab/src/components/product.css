@@ -1,0 +1,16 @@
+
+
+.rounded{
+  cursor: pointer;
+}
+
+
+.rounded.selected {
+    background-color: #a259ff;
+    color: #fff;
+  }
+
+.card-link.selected{
+    color: #fff;
+}
+
